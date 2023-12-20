@@ -1,0 +1,8 @@
+.lightMode {
+  background-color: aliceblue;
+  min-height: 100vh;
+}
+.darkMode {
+  background-color: dimgrey;
+  min-height: 100vh;
+}
